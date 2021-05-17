@@ -1,6 +1,10 @@
 # Mouse+
 # 鼠标增强，最新版本1.1
 
+交流群：1157159110
+
+演示视频:[B站](https://www.bilibili.com/video/BV1cv411L7xi/)
+
 按住右键再拖动触发操作轮盘，期间按住Shifit绑定当前窗口，点击托盘mouse+.exe代表全局窗口。
 
 # 下载
