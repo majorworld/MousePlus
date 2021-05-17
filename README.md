@@ -1,7 +1,7 @@
 # Mouse+
 # 鼠标增强，最新版本1.1
 
-交流群：1157159110
+交流群：1157159110（电脑Grid神奇交流群）
 
 演示视频:[B站](https://www.bilibili.com/video/BV1cv411L7xi/)
 
