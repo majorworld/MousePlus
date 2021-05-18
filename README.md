@@ -1,5 +1,5 @@
 # Mouse+
-# 鼠标增强，最新版本1.1
+# 鼠标增强，最新版本1.2
 
 交流群：1157159110（电脑Grid神奇交流群）
 
@@ -14,6 +14,9 @@
 
 ### 1、按住右键再拖动触发操作轮盘，期间按住Shifit绑定当前窗口，点击托盘mouse+.exe代表全局窗口。
 ![1|513x500](https://meta.appinn.net/uploads/default/original/3X/6/c/6cdece648c5da44e9cee7b87650d5e833f0813b9.png)
+
+靠近屏幕边缘时，鼠标依旧在轮盘中心，除非鼠标碰到屏幕边缘。
+[优化动图](https://meta.appinn.net/uploads/default/original/3X/f/5/f5e251339c6af355cec78a5cd696a8f82f58690b.gif)
 
 ### 2、每个进程可以绑定不同的功能
 ![2|690x487](https://meta.appinn.net/uploads/default/original/3X/b/a/baac81d6329583e9d186756317370d62cba4b8f5.png)
