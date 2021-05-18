@@ -3,12 +3,15 @@
 
 交流群：1157159110（电脑Grid神奇交流群）
 
-演示视频:[B站](https://www.bilibili.com/video/BV1cv411L7xi/)
+演示视频：[B站](https://www.bilibili.com/video/BV1cv411L7xi/)
 
 按住右键再拖动触发操作轮盘，期间按住Shifit绑定当前窗口，点击托盘mouse+.exe代表全局窗口。
 
 # 下载
-[腾讯微云](https://share.weiyun.com/D99d1Y3P)
+[腾讯微云](https://share.weiyun.com/D99d1Y3P)  
+
+[蓝奏云](https://wwr.lanzoui.com/b02c3ahje)  免登录，密码:dg3g
+
 
 # 介绍
 
