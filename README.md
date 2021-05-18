@@ -3,7 +3,9 @@
 
 交流群：1157159110（电脑Grid神奇交流群）
 
-演示视频：[B站](https://www.bilibili.com/video/BV1cv411L7xi/)
+演示视频：[B站](https://www.bilibili.com/video/BV1cv411L7xi/)  
+
+[小众软件](https://meta.appinn.net/t/topic/23565)
 
 按住右键再拖动触发操作轮盘，期间按住Shifit绑定当前窗口，点击托盘mouse+.exe代表全局窗口。
 
