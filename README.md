@@ -5,12 +5,12 @@
 
 演示视频：[B站](https://www.bilibili.com/video/BV1cv411L7xi/)  
 
-[小众软件](https://meta.appinn.net/t/topic/23565)
+首发网站：[小众软件](https://meta.appinn.net/t/topic/23565)
 
 按住右键再拖动触发操作轮盘，期间按住Shifit绑定当前窗口，点击托盘mouse+.exe代表全局窗口。
 
 # 下载
-[腾讯微云](https://share.weiyun.com/D99d1Y3P)  
+[腾讯微云](https://share.weiyun.com/D99d1Y3P)  可以QQ扫码登录
 
 [蓝奏云](https://wwr.lanzoui.com/b02c3ahje)  免登录，密码:dg3g
 
@@ -21,7 +21,7 @@
 #### 1、添加轮盘边框阴影
 #### 2、添加了排除进程功能
 #### 3、添加了中键触发，右键滑动触发可以禁用
-#### 4、添加了轮盘无图标模式，更简介
+#### 4、添加了轮盘无图标模式，更简洁明了
 #### 5、添加了按Shift时强制显示轮盘的功能，过程中松开Shift键依旧可以执行动作，而不是绑定动作
 #### 6、修复手动填写进程的名称为大写时，导致无法识别动作的问题
 
