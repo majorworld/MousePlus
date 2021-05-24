@@ -31,7 +31,7 @@
 # 介绍
 
 ### 1、按住右键再拖动触发操作轮盘，期间按住Shifit绑定当前窗口，点击托盘mouse+.exe代表全局窗口。
-![1|513x500](https://meta.appinn.net/uploads/default/original/3X/6/c/6cdece648c5da44e9cee7b87650d5e833f0813b9.png)
+![1|513x500](https://meta.appinn.net/uploads/default/original/3X/7/f/7fedcfb8dfce855c67d61f3564e1400e0bbf753f.png)
 
 靠近屏幕边缘时，鼠标依旧在轮盘中心，除非鼠标碰到屏幕边缘。
 [优化动图](https://meta.appinn.net/uploads/default/original/3X/f/5/f5e251339c6af355cec78a5cd696a8f82f58690b.gif)
