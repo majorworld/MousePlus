@@ -9,7 +9,6 @@
 按住右键再拖动触发操作轮盘，期间按住Shifit绑定当前窗口，点击托盘mouse+.exe代表全局窗口。
 
 # 下载
-[腾讯微云](https://share.weiyun.com/D99d1Y3P)  可以QQ扫码登录
 
 [蓝奏云](https://wwr.lanzoui.com/b02c3ahje)  免登录，密码:dg3g
 
