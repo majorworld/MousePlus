@@ -16,6 +16,8 @@
 
 ### 2.0版本变化
 #### 1、添加了中键方框功能，闭眼都能准确触发自定义的功能，具体操作访问该链接。
+![image](https://user-images.githubusercontent.com/20183937/120147769-c5985d80-c219-11eb-9ef9-420412919ea0.png)
+
 [中键方框功能介绍](https://meta.appinn.net/t/topic/23804)
 #### 2、注意，同目录如果存在旧的mouse+.ini配置文件，要移除！
 
