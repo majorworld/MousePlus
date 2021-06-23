@@ -37,7 +37,11 @@
 #### 5、添加了按Shift时强制显示轮盘的功能，过程中松开Shift键依旧可以执行动作，而不是绑定动作
 #### 6、修复手动填写进程的名称为大写时，导致无法识别动作的问题
 
+# 图标来源
 
+https://www.iconfont.cn/user/detail?uid=4193520
+
+https://www.iconfont.cn/user/detail?uid=5430204
 
 
 # 介绍
