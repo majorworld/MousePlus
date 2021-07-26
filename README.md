@@ -77,12 +77,6 @@ https://www.iconfont.cn/user/detail?uid=5430204
 
 可以自己组合不同的快捷键
 
-# 注意！Shift键是LShiftKey，Ctrl键是LControlKey，Alt键是LMenu，开始菜单键是LWin，详情可以百度“C# Keys类”。
-
-# 组合键里写Shift、Control、和Alt是无效的，因为目前只是简单地按微软Keys类枚举自动遍历的。
-
-![5|690x474](https://meta.appinn.net/uploads/default/original/3X/a/8/a8910426b6cb5ec71a752d85108c69ef94177fb1.jpeg)
-
 
 # 打赏
 
