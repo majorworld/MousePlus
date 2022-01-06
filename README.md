@@ -1,8 +1,8 @@
 # Mouse+鼠标增强，最新版本3.0.16
 https://gitee.com/majorworld/mouseplus  
-因为GitHub访问不太稳定，后续版本转移到Gitee上了  
-https://gitee.com/majorworld/mouseplus/issues
-在线脚本分享
+因为GitHub访问不太稳定，后续版本转移到Gitee上了   
+https://gitee.com/majorworld/mouseplus/issues  
+在线脚本分享  
 
 
 ### 介绍
