@@ -3,6 +3,7 @@ https://gitee.com/majorworld/mouseplus
 因为GitHub访问不太稳定，后续版本转移到Gitee上了   
 https://gitee.com/majorworld/mouseplus/issues  
 在线脚本分享  
+交流群：1157159110（电脑Grid神奇交流群）
 
 
 ### 介绍
