@@ -14,7 +14,7 @@ https://gitee.com/majorworld/mouseplus/issues
 https://wwr.lanzoui.com/b02c3ahje 
 密码:dg3g
 
-提示Ctrl键被占用的，可以把QQ的双击Ctrl键禁用掉。
+提示Ctrl键被占用的，可以把QQ的双击Ctrl键开启划词搜索的快捷键禁用了。
 
 ### 动图
 ![输入图片说明](https://s4.ax1x.com/2022/01/06/TzzLcj.gif)
