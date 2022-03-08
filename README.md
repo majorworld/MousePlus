@@ -6,7 +6,8 @@ https://gitee.com/majorworld/mouseplus
 https://gitee.com/majorworld/mouseplus/issues  
 演示视频   
 https://www.bilibili.com/video/BV11R4y1u78C/   
-交流群：1157159110（电脑Grid神奇交流群）
+交流群：1157159110  
+[点我进群](https://jq.qq.com/?_wv=1027&k=bNnXZHdF)
 
 
 ### 介绍
