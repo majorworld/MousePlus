@@ -1,4 +1,4 @@
-# Mouse+鼠标增强，最新版本3.X
+# Mouse+鼠标增强，最新版本4.X
 
 因为GitHub访问不太稳定，后续版本转移到Gitee上了    
 https://gitee.com/majorworld/mouseplus   
