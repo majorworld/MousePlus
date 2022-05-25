@@ -1,5 +1,6 @@
 # Mouse+鼠标增强，最新版本4.X
 
+### 1、动图
 因为GitHub访问不太稳定，后续版本转移到Gitee上了    
 https://gitee.com/majorworld/mouseplus   
 在线脚本分享  
@@ -10,9 +11,42 @@ https://www.bilibili.com/video/BV11R4y1u78C/
 [点我进群](https://jq.qq.com/?_wv=1027&k=bNnXZHdF)
 
 
+### 2、动图
+
+![截图1](https://s1.ax1x.com/2022/05/24/XPjgG8.gif)
+
+![截图2](https://s1.ax1x.com/2022/05/24/XPj2RS.gif)
+
+![截图3](https://s1.ax1x.com/2022/05/24/XPjRxg.gif)
+
+### 3、截图
+
+![截图1](https://s1.ax1x.com/2022/05/24/XPjcPf.png)
+
+![截图1](https://s1.ax1x.com/2022/05/24/XPzhse.png)
+
+==
+==
+==
+==
+==
+==
+==
+==
+==
+==
+==
+==
+==
+==
+
+
+【以下为旧版本，旧版本使用的是AHK脚本引擎】
+
+# 当前最新版本Mouse+ 3.0.19
+
 ### 介绍
 鼠标增强
-
 
 ### 下载
 
