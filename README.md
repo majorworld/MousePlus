@@ -1,8 +1,6 @@
 # MousePlus当前最新版本5.0
 
-# 下载 [点击下载](https://mouseplus.cn/MousePlus5.0.1.zip)
-
-[官网介绍](https://mouseplus.cn/)
+# [官网下载](https://mouseplus.cn/)
 
 ## 上百个脚本步骤，随意组合
 
